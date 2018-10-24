@@ -1,11 +1,14 @@
 {
-    "orgName": "Dreamhouse",
-    "edition": "Developer",
+    "country": "US",
+    "orgName": "Whizhouse",
+    "edition": "Enterprise",
+    "features": ["Communities", "DebugApex"],
     "hasSampleData": "false",
     "settings": {
       "orgPreferenceSettings": {
         "s1DesktopEnabled": true,
         "selfSetPasswordInApi": true,
+        "NetworksEnabled": true,
         "s1EncryptedStoragePref2": false
       }
     }

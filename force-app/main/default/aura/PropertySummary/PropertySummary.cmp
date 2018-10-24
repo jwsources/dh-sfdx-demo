@@ -24,7 +24,7 @@
 
     <aura:handler event="ltng:selectSObject" action="{!c.recordChangeHandler}"/>
 
-	<lightning:card title="Property Summary" iconName="custom:custom85">
+	<lightning:card title="Property Overview" iconName="custom:custom85">
 
         <aura:set attribute="actions">
             <lightning:buttonIcon iconName="utility:edit" variant="bare" alternativeText="Edit Record" onclick="{!c.editRecord}" />
