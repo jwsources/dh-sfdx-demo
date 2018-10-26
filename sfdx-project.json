@@ -2,17 +2,17 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "package": "package-build",
-            "versionName": "Winter '19",
-            "versionNumber": "1.0.1.NEXT",
-            "default": true
+            "versionName": "Winter 19",
+            "versionNumber": "0.5.0.NEXT",
+            "default": true,
+            "package": "packagedemo01"
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "package-build": "0Ho1n000000XZCrCAO",
-        "package-build@1.0.0-1": "04t1n000002KOyTAAW"
+        "packagedemo01": "0Ho1n000000XZDLCA4",
+        "packagedemo01@0.5.0-1": "04t1n000002KP05AAG"
     }
 }
